@@ -11,7 +11,7 @@
 -generative AI basic coding Python SQL,machine learning digital marketing (SEO) AND SOFT SKILL; Emotional intelligent (EQ). 
 
 ## Current Projects
-- [LeilaHassan-hub](link) — a repository that is part ofmy assignment. it holds details about myself.
+- [LeilaHassan-hub](link) — a repository that is part of my assignment. it holds details about myself.
 
 ## How to Reach Me
 - Email: zbd_hassan@yahoo.com
