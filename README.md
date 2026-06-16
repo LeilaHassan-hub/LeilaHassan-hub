@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**LeilaHassan-hub/LeilaHassan-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm ZUBEDA HASSAN
 
-Here are some ideas to get you started:
+## About Me
+- I'm currently learning Artificial Intelingence  at Mahannim university.
+- I'm interested in machine learning, git and git hub, chatbox and programming.
+- I'm looking to collaborate on notebookLM for  studying document,Google Gemini and ChatGPT for genaral brain stoming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills I'm Building
+- Git and GitHub
+-generative AI basic coding Python SQL,machine learning digital marketing (SEO) AND SOFT SKILL; Emotional intelligent (EQ). 
+
+## Current Projects
+- [LeilaHassan-hub](link) — a repository that is part ofmy assignment. it holds details about myself.
+
+## How to Reach Me
+- Email: zbd_hassan@yahoo.com
+- LinkedIn: [your LinkedIn profile link]
